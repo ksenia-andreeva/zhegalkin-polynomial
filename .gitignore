@@ -1,15 +1,15 @@
-Исполняемые файлы
+# --- Исполняемые файлы ---
 *.exe
 *.out
 *.app
 
-Объектные файлы
+# --- Объектные файлы ---
 *.o
 *.obj
 *.a
 *.lib
 
-Временные файлы
+# --- Временные файлы ---
 *.tmp
 *.bak
 *.swp
@@ -17,19 +17,19 @@
 *.user
 *.suo
 
-Папки Visual Studio
+# --- Папки Visual Studio ---
 .vs/
 Debug/
 Release/
 x64/
 x86/
 
-Файлы проекта 
+# --- Файлы проекта ---
 *.vcxproj
 *.vcxproj.filters
 *.sln
 *.userprefs
 
-Папка сборки 
+# --- Папка сборки ---
 build/
 cmake-build-*/
