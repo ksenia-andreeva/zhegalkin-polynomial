@@ -1,0 +1,35 @@
+Исполняемые файлы
+*.exe
+*.out
+*.app
+
+Объектные файлы
+*.o
+*.obj
+*.a
+*.lib
+
+Временные файлы
+*.tmp
+*.bak
+*.swp
+*.swo
+*.user
+*.suo
+
+Папки Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+Файлы проекта 
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.userprefs
+
+Папка сборки 
+build/
+cmake-build-*/
